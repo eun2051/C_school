@@ -8,6 +8,7 @@ int main(void){
     int day;
 
     day = moondistance / working;  //일수
+    //day = (double)(moondistance / working + 0.05);  //반올림 하는 형태
 
     int year = day / 365;   //년수
     int month = (day % 365) / 30;   //월수
