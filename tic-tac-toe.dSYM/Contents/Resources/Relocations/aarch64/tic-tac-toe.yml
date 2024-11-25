@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/it/Desktop/c-school/C_school/tic-tac-toe'
+relocations:     []
+...
